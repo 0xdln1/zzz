@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: hello_world
-        run: echo "Hello World"
+        run: echo "poc run"
         shell: bash
 
   goodbye:
